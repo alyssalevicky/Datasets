@@ -1,6 +1,6 @@
 # Credit Card Datasets
 
-This repository contains datasets related to various credit card offerings, including details about card features and rewards programs. All datasets are free to use.
+This repository contains a downloadable dataset related to various credit card offerings, including details about card features and rewards programs. All datasets are free to use.
 
 ## Files Included
 
